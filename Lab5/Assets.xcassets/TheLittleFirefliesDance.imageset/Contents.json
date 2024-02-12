@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "TheLittleFirefly'sDance .jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "TheLittleFirefly'sDance @2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "TheLittleFirefly'sDance @3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
